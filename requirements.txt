@@ -1,0 +1,4 @@
+Flask
+pandas
+numpy
+bing_image_downloader
