@@ -2,7 +2,7 @@
 
 🚀 Excited to Start a New Project!
 I'm building an intelligent Recommendation System that enhances user experience by suggesting the right food products or other items, just like Amazon does! Whether you're shopping for groceries, meals, or essentials — this system aims to deliver personalized suggestions that matter. 🍱🛒✨
-<img align="right" alt="Recommender System" width="600" src="https://github.com/raviavaiya/Food_Recommendation_System/blob/main/image.png">
+<img align="right" alt="Recommender System" width="600" src="https://github.com/raviavaiya/Recommendation-System/blob/main/static/Food-Recommendation-System.png">
 
 ## 🔍 Project Goals
 
